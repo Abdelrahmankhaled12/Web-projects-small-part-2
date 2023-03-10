@@ -1,0 +1,76 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    padding: 20px;
+    text-align: center;
+    margin: 50px 0;
+}
+img {
+    width: 150px;
+}
+.container h1 {
+    color: #5fbaa7;
+    font-size: 30px;
+}
+
+.container p {
+    color: #777777ad;
+    font-size: 17px;
+}
+.currency {
+    overflow: hidden;
+}
+.container select  {
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 1px solid #5fbaa7;
+    font-weight: 600;
+    color: #0000007a;
+    display: block;
+    outline: none;
+    float: left;
+    text-align: center;
+}
+.container input {
+    display: block;
+    width: 65%;
+    padding: 0px 20px 0;
+    float: right;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    font-size: 30px;
+}
+.result {
+    margin:40px 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button {
+    padding: 15px 30px;
+    font-size: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: #5fbaa7;
+    color: white;
+    border: none;
+}
+
+.read-result {
+    display: block;
+    font-size: 25px;
+    color: #5fbaa7;
+}
+
+#amount-two {
+    pointer-events: none;
+}
