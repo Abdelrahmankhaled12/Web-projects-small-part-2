@@ -83,6 +83,24 @@ Select countries to get the exchange rate for a specific amount
 
 <hr>
 
+## Sortable List
+
+Display a scrambled list that can be sorted with drag and drop
+
+## Project Specifications
+
+- Create an ordered list (Top 10 richest people)
+- Scramble list items randomly
+- Allow user to drag and drop an item to a different position
+- Button to check if items are in correct order
+- Show green for correct order and red for wrong order
+
+
+<img src="https://i.ibb.co/yQwvH3g/bandicam-2023-03-10-15-38-44-332.gif">
+
+
+
+
 <!-- ## Meal Finder App
 
 Search and generate random meals from the [themealdb.com](www.themealdb.com) API
